@@ -1,6 +1,6 @@
 {
   "name": "bvi-fix",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Button visually impaired - is a plugin that automatically changes the visually impaired version of your site. The panel on the site for the visually impaired allows the color scheme of the site, font sizes, the synthesizer reads aloud settings changes. Thanks to it, you can use the functions of the site that meet the needs of people with disabilities. (This package is fork of original repo https://github.com/veks/button-visually-impaired-javascript.git, but with fix images)",
   "license": "MIT",
   "type": "module",
